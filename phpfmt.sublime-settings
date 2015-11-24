@@ -1,0 +1,17 @@
+{
+	"disable_auto_align": true,
+	"enable_auto_align": true,
+	"excludes":
+	[
+		"AddMissingParentheses"
+	],
+	"format_on_save": true,
+	"indent_with_space": false,
+	"passes":
+	[
+		"ReindentSwitchBlocks",
+		"AlignTypehint"
+	],
+	"php_bin": "/Applications/XAMPP/bin/php",
+	"version": 4
+}
